@@ -17,7 +17,7 @@ We prove a *structural result*:
 - unitary access:[Upper bounds - unitary access](Upper%20bounds%20-%20unitary%20access.md)
 
 ## Lower bounds
-We can prove a $\Omega(N^{1/4})$ (or even $\Omega(N^{1/3})$) lower bound by lifting the quantum lower bound for graph expansion testing.
+We can prove a $\Omega(N^{1/4})$ (or even $\Omega(N^{1/3})$ ) lower bound by lifting the quantum lower bound for graph expansion testing.
 - [Lower bound - from graph expansion testing](Lower%20bound%20-%20from%20graph%20expansion%20testing.md)
 
 ## Archive
